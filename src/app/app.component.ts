@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'petit-gateau';
+  title = 'Petit Gateau Bakeshop';
+  location = 'Portland, Oregon'
+  email = 'petitgateaubakeshop@gmail.com'
 }
