@@ -9,7 +9,7 @@ enableProdMode();
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Petit Gateau Bakeshop';
+  company = 'Petit Gateau Bakeshop'
   location = 'Portland, Oregon'
   email = 'petitgateaubakeshop@gmail.com'
 }
